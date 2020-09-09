@@ -1,10 +1,6 @@
 # etl-spark-on-hdfs
 We will read data from HDFS, apply transformation and write back to using Hive
 
-https://dzone.com/articles/example-of-etl-application-using-apache-spark-and
-
-https://datashark.academy/how-to-setup-apache-hadoop-cluster-on-a-mac-or-linux-computer/
-
 ## Introduction 
 
 Apache Spark is an in-memory distributed data processing engine that is used for processing and analytics of large data-sets. Spark presents a simple interface for the user to perform distributed computing on the entire clusters.Spark does not have its own file systems, so it has to depend on the storage systems for data-processing. It can run on HDFS or cloud based file systems like Amazon S3 and Azure BLOB. 
